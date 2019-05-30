@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 
-driver = webdriver.Chrome("YOUR DRIVER PATH");
+driver = webdriver.Chrome();
 
 
 def wait(no):
