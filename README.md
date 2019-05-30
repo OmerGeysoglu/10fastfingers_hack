@@ -7,4 +7,6 @@ driver = webdriver.Firefox(profile)
 ```
 if you want to use without account you just run script.
 
-**Don't forget add driver to path**
+[Driver for Firefox](https://github.com/Mozilla/geckodriver/releases)
+
+**Don't forget to edit path in environment variables**
