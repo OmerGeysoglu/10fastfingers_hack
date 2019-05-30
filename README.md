@@ -1,12 +1,6 @@
-# Hacking 10fastfingers
+![image1](https://raw.githubusercontent.com/OmerGeysoglu/10fastfingers_hack/master/image.jpg)
+![image2](https://raw.githubusercontent.com/OmerGeysoglu/10fastfingers_hack/master/image2.jpg)
 
-If you want to use it on your 10fastfingers account, line 6 must change like <br/> 
-```
-profile = webdriver.FirefoxProfile('/home/{your_username}/.mozilla/firefox/{your_default_profile}')
-driver = webdriver.Firefox(profile)
-```
-if you want to use without account you just run script.
-
-[Driver for Firefox](https://github.com/Mozilla/geckodriver/releases)
+[Driver for Chrome](http://chromedriver.chromium.org/)
 
 **Don't forget to edit path in environment variables**
